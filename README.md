@@ -35,6 +35,7 @@ You can install them using `pip`:
 
 ```bash
 pip install matplotlib numpy pandas
+```
 
 ### Usage
 
@@ -58,6 +59,7 @@ visualizer.plot_training_history()
 # Simulate data distribution
 data = np.random.randn(1000)  # Replace with actual data
 visualizer.plot_data_distribution(data, title='Data Distribution')
+```
 
 ### Features
 
